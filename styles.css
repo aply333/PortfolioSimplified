@@ -101,7 +101,7 @@ button:hover {
 }
 .about .photo {
   width: 45%;
-  height: 400px;
+  height: auto;
   object-fit: cover;
   margin: 1.5rem;
   box-shadow: 2px 2px 12px rgba(157, 157, 157, 0.5);
@@ -126,7 +126,7 @@ button:hover {
 }
 .myStacks img {
   width: 45%;
-  max-height: 400px;
+  max-height: auto;
   object-fit: cover;
   box-shadow: 2px 2px 12px rgba(157, 157, 157, 0.5);
 }
